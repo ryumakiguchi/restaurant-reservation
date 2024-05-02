@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2024-04-28
+  time: 2024-04-28 02:06:01
+  party_size: 1
+  customer_name: MyString
+  dining_area: MyString
+
+two:
+  date: 2024-04-28
+  time: 2024-04-28 02:06:01
+  party_size: 1
+  customer_name: MyString
+  dining_area: MyString

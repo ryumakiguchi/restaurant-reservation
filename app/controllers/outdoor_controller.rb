@@ -1,0 +1,2 @@
+class OutdoorController < ApplicationController
+end
